@@ -1,4 +1,5 @@
-# Boxing robot DTP
+# Moved elsewhere
+## Boxing robot DTP
 ## Description
 This repo defines formal grammar for exchanging boxing robot state information. The data is exchanged as raw c_str.
 
